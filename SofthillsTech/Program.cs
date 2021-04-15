@@ -50,10 +50,9 @@ namespace SofthillsTech
                 Console.WriteLine(employee);
             }
            }
-           catch (Exception)
+           catch (Exception e)
            {
-               
-               throw new ArgumentOutOfRangeException("Invalid format, check the format please!");
+               Console.Write(e.Message);
            }
 
         }
