@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTasks\LambdaExpressionTask\SofthillsTech\bin\Debug\net5.0\SofthillsTech.exe
+C:\CodebitsAcademy\LabTasks\LambdaExpressionTask\SofthillsTech\bin\Debug\net5.0\SofthillsTech.deps.json
+C:\CodebitsAcademy\LabTasks\LambdaExpressionTask\SofthillsTech\bin\Debug\net5.0\SofthillsTech.runtimeconfig.json
+C:\CodebitsAcademy\LabTasks\LambdaExpressionTask\SofthillsTech\bin\Debug\net5.0\SofthillsTech.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTasks\LambdaExpressionTask\SofthillsTech\bin\Debug\net5.0\SofthillsTech.dll
+C:\CodebitsAcademy\LabTasks\LambdaExpressionTask\SofthillsTech\bin\Debug\net5.0\ref\SofthillsTech.dll
+C:\CodebitsAcademy\LabTasks\LambdaExpressionTask\SofthillsTech\bin\Debug\net5.0\SofthillsTech.pdb
+C:\CodebitsAcademy\LabTasks\LambdaExpressionTask\SofthillsTech\obj\Debug\net5.0\SofthillsTech.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTasks\LambdaExpressionTask\SofthillsTech\obj\Debug\net5.0\SofthillsTech.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTasks\LambdaExpressionTask\SofthillsTech\obj\Debug\net5.0\SofthillsTech.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTasks\LambdaExpressionTask\SofthillsTech\obj\Debug\net5.0\SofthillsTech.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTasks\LambdaExpressionTask\SofthillsTech\obj\Debug\net5.0\SofthillsTech.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTasks\LambdaExpressionTask\SofthillsTech\obj\Debug\net5.0\SofthillsTech.dll
+C:\CodebitsAcademy\LabTasks\LambdaExpressionTask\SofthillsTech\obj\Debug\net5.0\ref\SofthillsTech.dll
+C:\CodebitsAcademy\LabTasks\LambdaExpressionTask\SofthillsTech\obj\Debug\net5.0\SofthillsTech.pdb
+C:\CodebitsAcademy\LabTasks\LambdaExpressionTask\SofthillsTech\obj\Debug\net5.0\SofthillsTech.genruntimeconfig.cache
