@@ -8,22 +8,28 @@ namespace SofthillsTech
     {
         static void Main(string[] args)
         {
-
-           try
-           {
- // Take in Position and Rating
+            while (true)
+            {
+            try
+            {
+            // Take in Position and Rating
             IDictionary<string, int> PositionRating = new Dictionary<string, int>();
             
             Console.WriteLine("Enter the number(N) of Positions: ");
             int N = Convert.ToInt32(Console.ReadLine());
 
+            if(N>=1 && N<=100)
+            {
             for (int i = 0; i < N; i++)
             {
             Console.WriteLine("Enter the Position-Rating: ");
             string positionRat = Console.ReadLine();
             var positionRating = positionRat.Split("-", 2);
-
             PositionRating.Add(positionRating[0], Convert.ToInt32(positionRating[1]));
+            }
+            }else{
+                Console.WriteLine("Input number is out of range");
+                break;
             }
 
             // Take in Employee Details
@@ -32,6 +38,8 @@ namespace SofthillsTech
             Console.WriteLine("Enter the number(M) of Employees: ");
             int M = Convert.ToInt32(Console.ReadLine());
 
+            if(M>=1 && M<=100)
+            {
             for (int i = 0; i < M; i++)
             {
             Console.WriteLine("Enter the Employee's name(firstName lastName)- Position: ");
@@ -41,6 +49,10 @@ namespace SofthillsTech
             var firstLastN = employeeInfo[0].Split(" ", 2);
             Employee newEmployee = new Employee(firstLastN[0], firstLastN[1], employeeInfo[1]);
             employees.Add(newEmployee);
+            }
+            }else{
+                Console.WriteLine("Input number is out of range");
+                break;
             }
 
             // Print out Employee Details
@@ -54,6 +66,8 @@ namespace SofthillsTech
            {
                Console.Write(e.Message);
            }
+
+            }
 
         }
     }
